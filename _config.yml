@@ -2,11 +2,19 @@
 title: Sujee Blog
 SEOTitle: 私はスジです | Sujee Blog
 header-img: img/home-bg.jpg
+<<<<<<< HEAD
 email: iam@leesujee.com
 description: "私はスジです | Web & Mobile Lover，Creator，UI/UX/Web Designer"
 keyword: "sujee, leesujee, leesujee.com, 이수지, 디자이너, Sujee Blog, Web, desinge"
 url: "https://leesujee.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+=======
+email: huxpro@gmail.com
+description: "私はスジです | Web & Mobile Lover，Creator，UI/UX/Web Designer"
+keyword: "sujee, leesujee, leesujee.com, 이수지, 디자이너, Sujee Blog, Web, desinge"
+url: "http://leesujee.com/"              # your host, for absolute URL
+baseurl: "http://leesujee.com/blog"                             # for example, '/blog' if your blog hosted on 'host/blog'
+>>>>>>> cbcf6b0ddeb48f59e62ebfad49612290c7670c76
 
 # Publish posts or collection documents with a future date.
 future: true
