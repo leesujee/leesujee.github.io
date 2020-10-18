@@ -1,0 +1,61 @@
+---
+layout:     post
+title:      "Hello 2020"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2020-10-18 17:00:00
+author:     "Sujee"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - 生活
+    - Meta
+---
+
+> “Yeah It's on. ”
+
+
+これが私がブログを始めた理由です。
+
+こんにちは。私はすじです。
+現役のWebデザイナーです。
+
+
+2020 年，何か残したいという気持ちからブログを始めることにしました。
+
+別で[個人のウェブサイト](https://leesujee.com)はありますが、ポートフォリオサイトであってブログの記事を掲載するには合わなかったです。これからはここに記録を残して行きたいです。
+
+
+<p id = "build"></p>
+
+## 本文
+
+以下はこのブログを構築するのに必要だった詳細について話します。
+
+このブログは [GitHub Pages](https://pages.github.com/) + [Jekyll](http://jekyllrb.com/) Quick Building Blogに従って作られています。快適で便利になったと感じでいます。
+
+[GitHub Pages](https://pages.github.com/) + [Jekyll](http://jekyllrb.com/) Quick Building Blogのいいところ：
+
+* **Markdown** でより便利で快適に作成ができる。
+* 馴染みのある Git workflow ，**Git Commitで Blog Postできる**
+* GitHubページのドメイン名を使用して、無制限のスペースが使用できる。
+	* ドメイン名をカスタマイズしたい場合には、DNSを変更してCNAMEを追加するだけ。
+* Jekyllのユーザー定義がすごく分かりやすい。基本的にはテンプレートエンジンです。
+
+---
+
+構成プロセス、Gitのプロセスに落とし穴がなく、非常にスムーズです。Jekyllテーマは、Clean Blogを適用しました。
+
+テーマは適用するのにはローカルのデバッグ環境が必要です。`gem install jekyll`をします。rubygemのソースは実際には壁に囲まれていました。
+
+テーマのCSSはBootstrapに基づいてカスタマイズされています。必要ない部分はLessから直接変更しても問題はありませんが（通常、私はSCSSに慣れていますが、）こちらのBootstrapのモバイルエクスペリエンスはごく普通だと思います。
+
+次のブログの更新作業は、日本語のフォントレンダリング、[Type is Beautiful](http://www.typeisbeautiful.com/)  of `font` CSS、フォントサイズを調整などをしようと思っています。
+
+
+## 最後に..
+
+これからよろしくお願いいたします！
+
+—— Sujee 2020.10
+
+
