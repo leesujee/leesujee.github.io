@@ -13,6 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
+instagram_username: designer_lsj
 github_username:    leesujee
 twitter_username:   _iamsujee
 facebook_username:  iamsujee
@@ -55,7 +56,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: sujee
 
 # Netease settings
 netease_comment: false
