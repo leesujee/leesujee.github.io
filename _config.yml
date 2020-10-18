@@ -1,6 +1,6 @@
 # Site settings
-title: Sujee Blog
-SEOTitle: 私はスジです | Sujee Blog
+title: SujeeLog
+SEOTitle: 私はスジです | SujeeLog
 header-img: img/home-bg.jpg
 email: iam@leesujee.com
 description: "私はスジです | Web & Mobile Lover，Creator，UI/UX/Web Designer"
@@ -75,7 +75,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "For the next quantum leap<br>スジLog"
+sidebar-about-description: "For the next quantum leap <br> SujeeLog"
 sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -98,7 +98,7 @@ page-mathjax: false
 
 
 # Friends
-#　friends: [
+friends: [
     {
     #     title: "Su",
     #     href: "http://su.gallery/"
