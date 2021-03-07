@@ -1,9 +1,9 @@
 ---
 layout:       post
-title:        "饿了么的 PWA 升级实践"
+title:        "Toggle language "
 subtitle:     "Upgrading Ele.me to Progressive Web App"
-date:         2017-07-12 12:00:00
-author:       "Hux"
+date:         2021-03-07 12:00:00
+author:       "Sujee"
 header-img:   "img/in-post/post-eleme-pwa/eleme-at-io.jpg"
 header-mask:  0.3
 catalog:      true
@@ -13,10 +13,10 @@ tags:
     - PWA
 ---
 
-<!-- Chinese Version -->
-<div class="zh post-container">
-    {% capture about_zh %}{% include posts/2017-07-12-upgrading-eleme-to-pwa/zh.md %}{% endcapture %}
-    {{ about_zh | markdownify }}
+<!-- Japanese Version -->
+<div class="ja post-container">
+    {% capture about_ja %}{% include posts/2021-03-07-upgrading-eleme-to-pwa/ja.md %}{% endcapture %}
+    {{ about_ja | markdownify }}
 </div>
 
 <!-- English Version -->
