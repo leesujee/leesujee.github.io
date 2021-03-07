@@ -1,10 +1,8 @@
 
 
+Resources
+---------------
 [Hux Blog](https://huangxuan.me)
----------------
-
-Other Resources
----------------
 
 Ports
 - [**Hexo**](https://github.com/Kaijun/hexo-theme-huxblog) by @kaijun
